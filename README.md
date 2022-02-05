@@ -6,7 +6,7 @@
 
 ### [ 팀명 : 5인가족 ]
 - **김대현 : <a href="https://github.com/kimdh-hi">github</a>**
-- **김윤성 : <a href="https://github.com/f-dev-kys">github</a>**
+- **김윤성 : <a href="https://github.com/kimewnseong">github</a>**
 - **박창헌 : <a href="https://github.com/parkchangheon">github</a>**
 - **조주영 : <a href="https://github.com/chojooyoung">github</a>**
 - **홍성진 : <a href="https://github.com/sungjin0757">github</a>**
